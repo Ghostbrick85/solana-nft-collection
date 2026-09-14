@@ -1,0 +1,19 @@
+{
+  "name": "Urban Underground Genesis #004",
+  "description": "Ghostbrick85 Urban Underground Genesis — coming up from nothing, one block at a time.",
+  "image": "ipfs://REPLACE_IMAGE_CID/nft-004.png",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Urban Underground Genesis"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 4
+    },
+    {
+      "trait_type": "Network",
+      "value": "X Layer"
+    }
+  ]
+}
